@@ -40,7 +40,7 @@ Au départ chaque utilisateur possède le statut "beginner" (débutant).
 
 Si le meilleur score (tous thèmes confondus) de l'utilisateur est supérieur à 1200 points alors son statut passe à "expert".
 
-exemple: Si sur le thème "Sport" il a obtenu 500 points mais que sur le thème "Histoire" il a obtenu 1300 points il est                consideré comme un "expert".
+exemple: Si sur le thème "Sport" il a obtenu 500 points mais que sur le thème "Histoire" il a obtenu 1300 points il est consideré comme un "expert".
 
 Ce statut lui permet alors de pouvoir ajouter/supprimer des nouvelles questions.
 
